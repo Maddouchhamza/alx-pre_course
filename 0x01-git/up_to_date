@@ -1,1 +1,1 @@
-touch alx-pre_course/up_to_date
+git pull origin master
